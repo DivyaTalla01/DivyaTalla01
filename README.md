@@ -15,7 +15,5 @@ I'm Divya from India, currently studying computer and information sciences in US
 
 - github: [github Profile](https://github.com/DivyaTalla01)
 - linkedin: https://www.linkedin.com/in/divya-talla-413a62164/
-- 
-- 
-- 
+
 
