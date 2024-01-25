@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**DivyaTalla01/DivyaTalla01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Add biographical information
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Divya from India, currently studying computer and information sciences in USA. Here's a bit about me:
+
+## About Me
+
+- 🎓 Studying Computer and Information Sciences
+- 🕺 Interests: Dancing, Singing, and Reading Books
+- 💻 Currently working on [HTML,CSS and JavaScript]
+
+## Get in Touch
+
+- github: [github Profile](https://github.com/DivyaTalla01)
+- linkedin: https://www.linkedin.com/in/divya-talla-413a62164/
+- 
+- 
+- 
+
