@@ -7,9 +7,15 @@ I'm Divya from India, currently studying computer and information sciences in US
 
 ## About Me
 
-- 🎓 Studying Computer and Information Sciences
+- 🎓 Driven by a passion for technology and equipped with a strong education in Computer and Information Sciences.
 - 🕺 Interests: Dancing, Singing, and Reading Books
-- 💻 Currently working on [HTML,CSS and JavaScript]
+- Projects:Attendance Management System,Portfolio Website
+- Technical Skills:Java, Python, SQL, C, Swift
+                   HTML, CSS, JavaScript, PHP
+                   Spring Boot, Firebase
+                   Microsoft Azure, Databricks
+  -Experience:Technology Service Assistant - Northwest Missouri State University (Aug 2022 - Present)
+               Teaching Assistant - Northwest Missouri State University (Aug 2022 - Dec 2022)
 
 ## Get in Touch
 
