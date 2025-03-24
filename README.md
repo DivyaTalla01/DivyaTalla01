@@ -3,7 +3,7 @@
 ## Add biographical information
 
 
-I'm Divya from India, currently studying computer and information sciences in USA. Here's a bit about me:
+I'm Divya from India, currently studying Computer Science and Information Systems(CSIS) in USA. Here's a bit about me:
 
 ## About Me
 
